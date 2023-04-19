@@ -15,4 +15,4 @@ django-anymail[mailgun]==5.0  # https://github.com/anymail/django-anymail
 # ------------------------------------------------------------------------------
 django-heroku==0.3.1 # https://github.com/heroku/django-heroku
 
-sentry-sdk==0.6.9
+sentry-sdk==1.20.0
