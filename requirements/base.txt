@@ -15,7 +15,7 @@ django-tables2==2.0.4
 django-redis==4.10.0  # https://github.com/niwinz/django-redis
 
 # Django REST Framework
-djangorestframework==3.9.1  # https://github.com/encode/django-rest-framework
+djangorestframework==3.15.1  # https://github.com/encode/django-rest-framework
 coreapi==2.3.3  # https://github.com/core-api/python-client
 
 django-scheduler==0.8.8
